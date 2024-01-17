@@ -1,0 +1,14 @@
+{
+  "name": "gpt-router-js",
+  "author": {
+    "name": "Amirreza Salimi"
+  },
+  "dependencies": {
+    "bun": "^1.0.20",
+    "gpt-tokenizer": "^2.1.2",
+    "openai": "^4.24.1"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.20"
+  }
+}
